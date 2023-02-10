@@ -1,6 +1,6 @@
 - 👋 I’m @kauanpecanha
-- 👀 Interested in Software Engineering
-- 🌱 Currently learning React.js, Typescript and Python
+- 👀 Interested in Software Engineering in general, but mainly in fullstack web development
+- 🌱 Currently learning React.js, Typescript, Python and Django
 - 📫 Reach me:kauanpecanha1@gmail.com
 
 <!---
