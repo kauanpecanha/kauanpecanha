@@ -2,10 +2,7 @@
 
 - 👀 Interested in Software Engineering in general, mainly in fullstack web development
 
-- 🌱 I have gone through:
-  Programming Languages: C, C++, Python, Javascript, Arduino
-  Frameworks: Django
-  Libraries: ReactJS, React Native
+- 🌱 I have gone through: C, C++, Python, Javascript, Arduino, Django, ReactJS and React Native
 
 - 🖋️ What I do: comercial advisor and project manager at Serra Jr. Engenharia
 
