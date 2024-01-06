@@ -2,7 +2,16 @@
 
 ## Atualmente, me encontro fazendo meu bacharel em Engenharia de Computação na Universidade do Estado do Rio de Janeiro.
 
-## Tenho experiência em desenvolvimento front-end em javascript react, bem como visão computacional, análise de dados e automação raspberryPi em python, e automação arduino em c++.
+## Tenho experiência em:
+  - desenvolvimento front-end em Javascript React,
+  - visão computacional e cálculos matenmáticos em Python,
+  - automação arduino em C++.
+
+## Estou aprendendo:
+  - Backend em NodeJS + Typescript
+  - Análise de Dados em Python
+  - UX/UI usando Figma
+  - DevOps em Docker + Kubernets
 
 ## Seja bem vindo! Conheça minhas estatísticas abaixo:
 
