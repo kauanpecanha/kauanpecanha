@@ -1,4 +1,4 @@
-# Seja bem vindo! Me chamo Kauan Peçanha, e sou desenvolvedor.
+# Olá! Me chamo Kauan Peçanha, e sou desenvolvedor👋🏽
 
 ## Atualmente, me encontro fazendo meu bacharel em Engenharia de Computação na Universidade do Estado do Rio de Janeiro.
 
@@ -12,6 +12,9 @@
   - Análise de Dados em Python
   - UX/UI usando Figma
   - DevOps em Docker + Kubernets
+
+## Me conheça melhor!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kauan-peçanha-171539241)
 
 ## Seja bem vindo! Conheça minhas estatísticas abaixo:
 
