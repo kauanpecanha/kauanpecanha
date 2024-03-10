@@ -14,7 +14,7 @@
   - DevOps em Docker + Kubernets
 
 ## Me conheça melhor!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kauan-peçanha-171539241)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kauan-peçanha-171539241**target="_blank"**)
 
 ## Seja bem vindo! Conheça minhas estatísticas abaixo:
 
