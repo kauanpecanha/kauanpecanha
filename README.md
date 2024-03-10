@@ -9,6 +9,7 @@
   <li align="center">Sou desenvolvedor frontend júnior 🖼️</li>
   <li align="center">Também trabalho com automação de sistemas físicos 🤖</li>
   <li align="center">Desenvolvo trabalhos na área de visão computacional e modelos de reconhecimento 👁️</li>
+  <li align="center">No momento, estou aprendendo sobre: machine learning, visão computacional, docker e node.js ☘️</li>
 </ol>
 
 ### Me conheça melhor!
