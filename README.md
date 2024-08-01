@@ -1,15 +1,13 @@
 <!---->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+o+Kauan+Peçanha!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Seja+bem+vindo!;+Me+chamo+Kauan+Peçanha.;" />
 </h1>
 
 ### Um pouco sobre mim:
 <ol>
-  <li align="center">Atualmente, estou fazendo meu bacharel em Engenharia de Computação 💻</li>
-  <li align="center">Sou desenvolvedor frontend júnior 🖼️</li>
-  <li align="center">Também trabalho com automação de sistemas físicos 🤖</li>
-  <li align="center">Desenvolvo trabalhos na área de visão computacional e modelos de reconhecimento 👁️</li>
-  <li align="center">No momento, estou aprendendo sobre: machine learning, visão computacional, docker e node.js ☘️</li>
+  <li align="left">Atualmente, estou fazendo meu bacharel em Engenharia de Computação</li>
+  <li align="left">Sou estagiário na Anlix</li>
+  <li align="left">No momento, estou aprendendo sobre: Kotlin e Engenharia de Software</li>
 </ol>
 
 ### Me conheça melhor!
@@ -39,12 +37,6 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
-- Para visão computacional, análise de dados e machine learning:
-
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![tf](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![jupyter notebook](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 - Para automação:
 
