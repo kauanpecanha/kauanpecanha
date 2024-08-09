@@ -8,6 +8,7 @@
   <li align="left">Atualmente, estou fazendo meu bacharel em Engenharia de Computação</li>
   <li align="left">Sou estagiário na Anlix</li>
   <li align="left">No momento, estou aprendendo sobre: Kotlin e Engenharia de Software</li>
+  <li align="left">Trabalho com desenvolvimento de aplicações web e mobile de forma autônoma. Venha fazer um orçamento!</li>
 </ol>
 
 ### Me conheça melhor!
