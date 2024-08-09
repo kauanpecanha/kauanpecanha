@@ -3,14 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Seja+bem+vindo!;+Me+chamo+Kauan+Peçanha.;" />
 </h1>
 
-### Um pouco sobre mim:
-<ol>
-  <li align="left">Atualmente, estou fazendo meu bacharel em Engenharia de Computação</li>
-  <li align="left">Sou estagiário na Anlix</li>
-  <li align="left">No momento, estou aprendendo sobre: Kotlin e Engenharia de Software</li>
-  <li align="left">Trabalho com desenvolvimento de aplicações web e mobile de forma autônoma. Venha fazer um orçamento!</li>
-</ol>
-
 ### Me conheça melhor!
 <!--Badge do Linkedin-->
 <a href="https://www.linkedin.com/in/kauan-peçanha-171539241" target="_blank">
