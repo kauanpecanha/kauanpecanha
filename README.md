@@ -19,16 +19,3 @@
 
 <!--Horas totais de código do wakatime-->
 [![Wakatime's hours of code](https://wakatime.com/badge/user/2c59aa78-1393-4679-bb13-0525ed47791b.svg)](https://wakatime.com/@2c59aa78-1393-4679-bb13-0525ed47791b)
-
-### Minha stack
-
-- Para desenvolvimento web:
-
-![mongodb](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-- Para automação:
-
-![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![raspberrypi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![sh](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
