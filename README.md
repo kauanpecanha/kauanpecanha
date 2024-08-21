@@ -9,11 +9,12 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
 
+<!--
 ### Conheça minhas estatísticas abaixo:
+-->
 
 <!--Estatísticas do Github-->
-![kauanpecanha's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanpecanha&count_private=true&hide=stars&theme=midnight-purple)
-
+<!-- ![kauanpecanha's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanpecanha&count_private=true&hide=stars&theme=midnight-purple) -->
 <!--Linguagens mais programadas no github stats-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanpecanha&hide=jupyter%20notebook,c%2B%2B)](https://github.com/kauanpecanha/github-readme-stats) -->
 
