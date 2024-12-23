@@ -11,11 +11,13 @@
 
 ### 🚀 Sobre mim
 - 🤵🏽 Três anos de experiência com desenvolvimento de software
-- 🛫 Já dirigi um projeto internacional de automação
+- 🛫 Já dirigi um projeto internacional de automação (conheça melhor através deste <a href="https://www.uerj.br/noticia/empresa-junior-da-uerj-participa-de-mostra-da-artista-visual-laura-lima-no-museu-de-arte-contemporanea-de-barcelona/">link</a>)
 - ✅ Quatro prestações de serviços finalizadas com sucesso
 - 🟨 Trabalho profissionalmente com Javascript
 - ☕ Atualmente, busco me desenvolver em Java/Kotlin e DevOps
 
+### 📧 Contato profissional
+kauanpecanha.dev@gmail.com
 <!--
 ### Conheça minhas estatísticas abaixo:
 -->
