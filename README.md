@@ -3,19 +3,26 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Olá!;+Me+chamo+Kauan+Peçanha.;" />
 </h1>
 
-### Me conheça melhor!
+### 👔 Conheça melhor meu profissional!
 <!--Badge do Linkedin-->
 <a href="https://www.linkedin.com/in/kauan-peçanha-171539241" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
 
+### 🚀 Sobre mim
+- 🤵🏽 Três anos de experiência com desenvolvimento de software
+- 🛫 Já dirigi um projeto internacional de automação
+- ✅ Quatro prestações de serviços finalizadas com sucesso
+- 🟨 Trabalho profissionalmente com Javascript
+- ☕ Atualmente, busco me desenvolver em Java/Kotlin e DevOps
+
 <!--
 ### Conheça minhas estatísticas abaixo:
 -->
 
-<!--Estatísticas do Github-->
+<!-- Estatísticas do Github -->
 <!-- ![kauanpecanha's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanpecanha&count_private=true&hide=stars&theme=midnight-purple) -->
-<!--Linguagens mais programadas no github stats-->
+<!-- Linguagens mais programadas no github stats -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanpecanha&hide=jupyter%20notebook,c%2B%2B)](https://github.com/kauanpecanha/github-readme-stats) -->
 
 Tempo de código desde 13 de Agosto de 2023
