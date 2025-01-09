@@ -27,6 +27,9 @@ kauanpecanha.dev@gmail.com
 <!-- Linguagens mais programadas no github stats -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanpecanha&hide=jupyter%20notebook,c%2B%2B)](https://github.com/kauanpecanha/github-readme-stats) -->
 
-Tempo de código desde 13 de Agosto de 2023
+Estatísticas desde 13 de Agosto de 2023:
 
 [![Wakatime's hours of code](https://wakatime.com/badge/user/2c59aa78-1393-4679-bb13-0525ed47791b.svg)](https://wakatime.com/@2c59aa78-1393-4679-bb13-0525ed47791b)
+
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@kauanpecanha/0449bbc5-1696-49ff-8cff-7c5a30a06939.png" /></a>
