@@ -31,5 +31,5 @@ Estatísticas desde 13 de Agosto de 2023:
 
 [![Wakatime's hours of code](https://wakatime.com/badge/user/2c59aa78-1393-4679-bb13-0525ed47791b.svg)](https://wakatime.com/@2c59aa78-1393-4679-bb13-0525ed47791b)
 
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@kauanpecanha/0449bbc5-1696-49ff-8cff-7c5a30a06939.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@kauanpecanha/0cef198f-01f3-4091-a49f-62ffb5168bdd.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@kauanpecanha/e0a66ca5-ff93-4bcd-832d-541fec4bb246.png" /></a>
