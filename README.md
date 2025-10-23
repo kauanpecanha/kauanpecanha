@@ -3,18 +3,27 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Olá!;+Me+chamo+Kauan+Peçanha.;" />
 </h1>
 
-### 👔 Conheça melhor meu profissional!
+### 👔 Conheça minha trajetória
 <!--Badge do Linkedin-->
 <a href="https://www.linkedin.com/in/kauan-peçanha-171539241" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
 
+### 👷🏽 Meu trabalho
+Atualmente, sou Engenheiro de DevSecOps na Klever, onde atuo com:
+- ♾️ automação de processos de CI/CD através de pipelines
+- ⛵ gerenciamento de clusters Kubernetes
+- 🅰️ implementação de playbooks utilizando o Ansible
+- 🟦 gerenciamento de ambiente em nuvem, na Google Cloud
+
+<!--
 ### 🚀 Sobre mim
 - 🤵🏽 Três anos de experiência com desenvolvimento de software
 - 🛫 Já dirigi um projeto internacional de automação (conheça melhor através deste <a href="https://www.uerj.br/noticia/empresa-junior-da-uerj-participa-de-mostra-da-artista-visual-laura-lima-no-museu-de-arte-contemporanea-de-barcelona/">link</a>)
 - ✅ Quatro prestações de serviços finalizadas com sucesso
 - 🟨 Trabalho profissionalmente com Javascript
 - ☕ Atualmente, busco me desenvolver em Java/Kotlin e DevOps
+-->
 
 ### 📧 Contato profissional
 kauanpecanha.dev@gmail.com
